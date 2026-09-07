@@ -1,0 +1,6 @@
+{
+  "name": "3-Axis Robotic Arm 3D Simulation",
+  "description": "Interactive 3D simulation of a 3-axis robotic arm with base, shoulder, and elbow joint controls, 3D coordinate axes, and real-time visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
